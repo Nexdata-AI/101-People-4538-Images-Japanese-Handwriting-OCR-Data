@@ -32,4 +32,4 @@ character-level rectangular bounding box annotation and text transcription
 the error bound of each vertex of rectangular bounding box is within 2 pixels, which is a qualified annotation, the accuracy of bounding boxes is not less than 98%; the characters transcription accuracy is not less than 98%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
