@@ -4,7 +4,7 @@
 ## Description
 101 People - 4,538 Images Japanese Handwriting OCR Data. The text carrier is A4 paper. The dataset content includes social livelihood, entertainment, tour, sport, movie, composition and other fields. For annotation, character-level rectangular bounding box annotation and text transcription were adopted. The dataset can be used for tasks such as Japanese handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1087?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/ocr/1087?source=Github
 
 
 ## Data size
